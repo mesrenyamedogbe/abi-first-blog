@@ -25,8 +25,7 @@ SECRET_KEY = '*%-6j1)w#(+my4qw=ag0e1kz20-yvj7)indeqc(0xi7fmttgxz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['127.0.0.1', 'harps.pythonanywhere.com']
 
 # Application definition
 
